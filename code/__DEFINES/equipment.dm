@@ -82,7 +82,6 @@
 #define NOTABLEMERGE (1<<13)
 /// Has heat source but isn't 'on fire' and thus can be stored
 #define IGNITING_ITEM (1<<14)
-
 //==========================================================================================
 
 
@@ -545,7 +544,6 @@ var/global/list/uniform_categories = list(
 //=================================================
 
 //=================================================
-#define PHONE_RTO "RTO"
 #define PHONE_MARINE "Marine"
 #define PHONE_UPP_SOLDIER "Soldier"
 #define PHONE_IO "IO"
