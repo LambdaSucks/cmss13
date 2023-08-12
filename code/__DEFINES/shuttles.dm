@@ -104,6 +104,13 @@
 #define STAT_TRIJENT_ENGI "trigent_engineering"
 #define STAT_TRIJENT_OMEGA "trigent_omega"
 
+#define MOBILE_SULACO_ELEVATOR1 "sulacocen1"
+#define STAT_SULACO_UPR1 "sulaco_cen1_upper"
+#define STAT_SULACO_LWR1 "sulaco_cen1_lower"
+#define MOBILE_SULACO_ELEVATOR2 "sulacocen2"
+#define STAT_SULACO_UPR2 "sulaco_cen2_upper"
+#define STAT_SULACO_LWR2 "sulaco_cen2_lower"
+
 #define MOBILE_SHUTTLE_LIFEBOAT_PORT "lifeboat-port"
 #define MOBILE_SHUTTLE_LIFEBOAT_STARBOARD "lifeboat-starboard"
 #define MOBILE_SHUTTLE_VEHICLE_ELEVATOR "vehicle_elevator"
