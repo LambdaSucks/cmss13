@@ -1,0 +1,7 @@
+{
+    "map_name": "USS Sulaco",
+    "map_path": "map_files/USS_Sulaco",
+    "map_file": "USS_Sulaco.dmm",
+    "traits": [{"Marine Main Ship": true}],
+    "disable_ship_map": true
+}
